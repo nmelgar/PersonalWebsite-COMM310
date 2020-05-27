@@ -1,4 +1,4 @@
-# PersonalWebsite-COMM310(2019)
+# PersonalWebsite-COMM310 (2019)
 Personal website COMM310 project (2019)<br>
 This was a College project. <br>
 The purpose of the project was to <br>
